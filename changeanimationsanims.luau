@@ -1,0 +1,86 @@
+return {
+    noli = {
+        walkAnimationId = "rbxassetid://103292185212679",
+        idleAnimationId = "rbxassetid://83465205704188",
+        jumpAnimationId = "rbxassetid://83465205704188",
+	    runanimationId = "rbxassetid://103292185212679",
+    },
+    one_eggs_one_eggs_one_eggs_one = {
+        walkAnimationId = "rbxassetid://131235528875091",
+        idleAnimationId = "rbxassetid://138754221537146",
+        jumpAnimationId = "rbxassetid://138754221537146",
+	    runanimationId = "rbxassetid://106485518413331",
+    },
+    jason = {
+        walkAnimationId = "rbxassetid://93622022596108",
+        idleAnimationId = "rbxassetid://116050994905421",
+        jumpAnimationId = "rbxassetid://116050994905421",
+	    runanimationId = "rbxassetid://93054787145505",
+    },
+    johndoe = {
+        walkAnimationId = "rbxassetid://81193817424328",
+        idleAnimationId = "rbxassetid://105880087711722",
+        jumpAnimationId = "rbxassetid://105880087711722",
+	    runanimationId = "rbxassetid://95204713031545",
+    },
+    c00lkidd = {
+        walkAnimationId = "rbxassetid://18885906143",
+        idleAnimationId = "rbxassetid://18885903667",
+        jumpAnimationId = "rbxassetid://18885903667",
+	    runanimationId = "rbxassetid://96571077893813",
+    },
+    mafioso = {
+        walkAnimationId = "rbxassetid://90878063243908",
+        idleAnimationId = "rbxassetid://112527946233530",
+        jumpAnimationId = "rbxassetid://112527946233530",
+	    runanimationId = "rbxassetid://90878063243908",
+    },
+    pizzadelivery = {
+        walkAnimationId = "rbxassetid://18886064499",
+        idleAnimationId = "rbxassetid://18886066950",
+        jumpAnimationId = "rbxassetid://18886066950",
+	    runanimationId = "rbxassetid://18886064499",
+    },
+    busterbrawler = {
+        walkAnimationId = "rbxassetid://96194626828153",
+        idleAnimationId = "rbxassetid://96173779255396",
+        jumpAnimationId = "rbxassetid://96173779255396",
+	    runanimationId = "rbxassetid://96194626828153",
+    },
+	    herobrine = {
+        walkAnimationId = "rbxassetid://89380107485006",
+        idleAnimationId = "rbxassetid://107799240559806",
+        jumpAnimationId = "rbxassetid://107799240559806",
+	    runanimationId = "rbxassetid://89380107485006",
+    },
+	dukeerisa = {
+        walkAnimationId = "rbxassetid://74634685431456",
+        idleAnimationId = "rbxassetid://132811450080149",
+        jumpAnimationId = "rbxassetid://132811450080149",
+	    runanimationId = "rbxassetid://74634685431456",
+    },
+	    erlking = {
+        walkAnimationId = "rbxassetid://72722119435580",
+        idleAnimationId = "rbxassetid://138465378316476",
+        jumpAnimationId = "rbxassetid://138465378316476",
+	    runanimationId = "rbxassetid://72722119435580",
+    },
+	sancho = {
+        walkAnimationId = "rbxassetid://87121677046773",
+        idleAnimationId = "rbxassetid://93727662665079",
+        jumpAnimationId = "rbxassetid://93727662665079",
+	    runanimationId = "rbxassetid://87121677046773",
+    },
+	stalker = {
+        walkAnimationId = "rbxassetid://108287960442206",
+        idleAnimationId = "rbxassetid://135419935358802",
+        jumpAnimationId = "rbxassetid://135419935358802",
+	    runanimationId = "rbxassetid://108287960442206",
+    },
+    pursuer = {
+        walkAnimationId = "rbxassetid://100206079439305",
+        idleAnimationId = "rbxassetid://94895464960972",
+        jumpAnimationId = "rbxassetid://94895464960972",
+	    runanimationId = "rbxassetid://138660433982140",
+    },
+}

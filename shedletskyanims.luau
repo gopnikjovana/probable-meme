@@ -3,6 +3,10 @@ return {
         SLASH = "rbxassetid://116618003477002",
         CHICKEN = "rbxassetid://121781457295101",
     },
+    TURKING = {
+        SLASH = "rbxassetid://116618003477002",
+        CHICKEN = "rbxassetid://87614442534377",
+    },
     JOHNWARD = {
         SLASH = "rbxassetid://97648548303678",
         CHICKEN = "rbxassetid://130578336615625",

@@ -5,4 +5,5 @@ return {
   ["Rip_ZoroRoronoa700"] = true,
   ["Bearhunter360noscope"] = true,
   ["arsenalkingduh"] = true,
+  ["Lobotomlc"] = true,
 }

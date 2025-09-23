@@ -9,4 +9,5 @@ return {
   ["unsurefrs"] = true,
   ["avoidinchildsupport"] = true,
   ["forsakenlover104"] = true,
+  ["Starlix_27"] = true,
 }

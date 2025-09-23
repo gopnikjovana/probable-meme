@@ -7,4 +7,5 @@ return {
   ["arsenalkingduh"] = true,
   ["Lobotomlc"] = true,
   ["unsurefrs"] = true,
+  ["avoidinchildsupport"] = true,
 }

@@ -6,4 +6,5 @@ return {
   ["Bearhunter360noscope"] = true,
   ["arsenalkingduh"] = true,
   ["Lobotomlc"] = true,
+  ["unsurefrs"] = true,
 }

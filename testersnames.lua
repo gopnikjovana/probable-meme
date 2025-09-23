@@ -4,4 +4,5 @@ return {
   ["aluucasha16"] = true,
   ["Rip_ZoroRoronoa700"] = true,
   ["Bearhunter360noscope"] = true,
+  ["arsenalkingduh"] = true,
 }

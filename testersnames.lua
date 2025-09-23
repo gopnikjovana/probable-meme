@@ -8,4 +8,5 @@ return {
   ["Lobotomlc"] = true,
   ["unsurefrs"] = true,
   ["avoidinchildsupport"] = true,
+  ["forsakenlover104"] = true,
 }

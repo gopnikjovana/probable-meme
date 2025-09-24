@@ -23,4 +23,6 @@ return {
   ["9958x5"] = true,
   ["XxLuc4s_07"] = true,
   ["7G7MJ"] = true,
+  ["mastercombat015"] = true,
+  ["edson6662mm"] = true,
 }

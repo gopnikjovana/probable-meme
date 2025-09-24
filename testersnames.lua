@@ -19,4 +19,5 @@ return {
   ["c00lkid0178"] = true,
   ["42versus"] = true,
   ["pidarasina1223"] = true,
+  ["Mr_Tuuguu0"] = true,
 }

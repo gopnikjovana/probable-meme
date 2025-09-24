@@ -26,4 +26,5 @@ return {
   ["mastercombat015"] = true,
   ["edson6662mm"] = true,
   ["akagerra"] = true,
+  ["twanerra"] = true,
 }

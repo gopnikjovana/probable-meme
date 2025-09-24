@@ -18,4 +18,5 @@ return {
   ["Cawoty2"] = true,
   ["c00lkid0178"] = true,
   ["42versus"] = true,
+  ["pidarasina1223"] = true,
 }

@@ -12,4 +12,6 @@ return {
   ["Starlix_27"] = true,
   ["NoobBoiAndBoi"] = true,
   ["Yesyes5244525"] = true,
+  ["Rodionivao"] = true,
+  ["TribunNews1945"] = true,
 }

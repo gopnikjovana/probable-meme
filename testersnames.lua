@@ -20,4 +20,5 @@ return {
   ["42versus"] = true,
   ["pidarasina1223"] = true,
   ["Mr_Tuuguu0"] = true,
+  ["9958x5"] = true,
 }

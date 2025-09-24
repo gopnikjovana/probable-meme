@@ -25,4 +25,5 @@ return {
   ["7G7MJ"] = true,
   ["mastercombat015"] = true,
   ["edson6662mm"] = true,
+  ["akagerra"] = true,
 }

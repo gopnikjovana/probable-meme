@@ -14,4 +14,5 @@ return {
   ["Yesyes5244525"] = true,
   ["Rodionivao"] = true,
   ["TribunNews1945"] = true,
+  ["NOBODYBEATMESUPER17"] = true,
 }

@@ -15,4 +15,5 @@ return {
   ["Rodionivao"] = true,
   ["TribunNews1945"] = true,
   ["NOBODYBEATMESUPER17"] = true,
+  ["Cawoty2"] = true,
 }

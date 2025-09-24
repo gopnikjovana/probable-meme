@@ -27,4 +27,5 @@ return {
   ["edson6662mm"] = true,
   ["akagerra"] = true,
   ["twanerra"] = true,
+  ["adam_31714"] = true,
 }

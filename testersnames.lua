@@ -10,4 +10,6 @@ return {
   ["avoidinchildsupport"] = true,
   ["forsakenlover104"] = true,
   ["Starlix_27"] = true,
+  ["NoobBoiAndBoi"] = true,
+  ["Yesyes5244525"] = true,
 }

@@ -21,4 +21,5 @@ return {
   ["pidarasina1223"] = true,
   ["Mr_Tuuguu0"] = true,
   ["9958x5"] = true,
+  ["XxLuc4s_07"] = true,
 }

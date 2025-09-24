@@ -28,4 +28,5 @@ return {
   ["akagerra"] = true,
   ["twanerra"] = true,
   ["adam_31714"] = true,
+  ["John_doe1030592"] = true,
 }

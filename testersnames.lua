@@ -17,4 +17,5 @@ return {
   ["NOBODYBEATMESUPER17"] = true,
   ["Cawoty2"] = true,
   ["c00lkid0178"] = true,
+  ["42versus"] = true,
 }

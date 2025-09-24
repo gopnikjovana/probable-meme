@@ -16,4 +16,5 @@ return {
   ["TribunNews1945"] = true,
   ["NOBODYBEATMESUPER17"] = true,
   ["Cawoty2"] = true,
+  ["c00lkid0178"] = true,
 }

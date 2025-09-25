@@ -31,5 +31,5 @@ return {
   ["John_doe1030592"] = true,
   ["Yesyes5244525"] = true,
   ["emperorssalvar"] = true,
-  ["justizforjess"] = true,
+  ["JustizForJess"] = true,
 }

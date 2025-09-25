@@ -32,4 +32,5 @@ return {
   ["Yesyes5244525"] = true,
   ["emperorssalvar"] = true,
   ["JustizForJess"] = true,
+  ["SimplyCared"] = true,
 }

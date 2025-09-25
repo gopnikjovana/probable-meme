@@ -30,5 +30,5 @@ return {
   ["adam_31714"] = true,
   ["John_doe1030592"] = true,
   ["Yesyes5244525"] = true,
-  ["emperorssalvarsodia"] = true,
+  ["emperorssalvar"] = true,
 }

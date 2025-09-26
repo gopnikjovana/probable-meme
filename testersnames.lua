@@ -33,4 +33,5 @@ return {
   ["emperorssalvar"] = true,
   ["JustizForJess"] = true,
   ["SimplyCared"] = true,
+  ["Skullbiter2008"] = true,
 }

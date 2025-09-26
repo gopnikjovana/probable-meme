@@ -36,4 +36,5 @@ return {
   ["Skullbiter2008"] = true,
   ["GiggleandPoop"] = true,
   ["flowertye178"] = true,
+  ["Tuber94878"] = true,
 }

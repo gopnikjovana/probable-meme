@@ -1,4 +1,4 @@
-_G.JasonHitbox = true
+_G.JasonHitbox = _G.JasonHitbox or false
 _G.hitboxnearestdist = 20
 local hitboxcode = nil
 
